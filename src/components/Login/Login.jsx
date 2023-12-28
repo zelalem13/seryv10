@@ -67,7 +67,7 @@ return (
     <div className="teret">
       <Cards>
     <div className="tedr" > 
-       <h1 className="title">Logged to your Account</h1>
+       <h1 className="title">Login to your Account</h1>
         <form onSubmit={handleSubmit}>
           <div className="inputs_container">
            
